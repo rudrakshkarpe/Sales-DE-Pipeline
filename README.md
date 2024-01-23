@@ -2,6 +2,7 @@
 a sophisticated data engineering pipeline leveraging Apache Airflow for seamless workflow management and ClickHouse as the high-performance data warehouse to efficiently process and analyze e-commerce website sales data.
 **
 
+
 ![Alt text](source/arc.png)
 - **Data Collection:**
   - Acquired or generated e-commerce sales dataset with transaction date, product, quantity, price, and customer details.
@@ -26,12 +27,3 @@ a sophisticated data engineering pipeline leveraging Apache Airflow for seamless
 ![DV-2](source/DV-2.png)
 
 
-<details>
-
-<summary>Task List:</summary>
-
-- [ ] Refactor airflow code
-- [ ] Clean-up (analysis-data)
-- [ ] Ideate on adding new features
-
-</details>
